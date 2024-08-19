@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Efe Tekin from Istanbul, Turkey.<br><br>- 🔭 I aspire to become a software engineer<br>- 📚 I'm a First-Year BScComputer Science student @UCL <br>- ⚡ In my free time I develop 3-D games and try to explore new areas of programming</p>
+<p align="left">I'm Efe Tekin from Istanbul, Turkey.<br><br>- 🔭 I aspire to become a software engineer<br>- 📚 I'm a Second-Year BScComputer Science student @UCL <br>- ⚡ In my free time I develop 3-D games and try to explore new areas of programming</p>
 
 ###
 
